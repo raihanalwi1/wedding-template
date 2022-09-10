@@ -134,7 +134,8 @@ body{
     text-align: center;
     font-style: normal;
     font-size: 25px;
-    font-family: 'Bad Script';
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
   }
 
    .pp{
@@ -143,6 +144,7 @@ body{
      position: relative;
 
    }
+   
    .pp img{
      width: 250px;
      height: 250px;
